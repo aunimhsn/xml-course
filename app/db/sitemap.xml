@@ -44,7 +44,7 @@
     </url>
     <url>
         <location>https://www.merci-app.com/comparatif-correcteur-outlook</location>
-        <priority>0.8</priority>
+        <priority>0.6</priority>
         <frequence>monthly</frequence>
         <updated_at>2022-06-01</updated_at>
     </url>
@@ -56,7 +56,7 @@
     </url>
     <url>
         <location>https://www.merci-app.com/contact</location>
-        <priority>0.8</priority>
+        <priority>0.6</priority>
         <frequence>monthly</frequence>
         <updated_at>2022-06-01</updated_at>
     </url>
