@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE bibliography SYSTEM "bibliography.dtd">
+<bibliography>
+    <book id="1">
+        <title>XML langage et applications</title>
+        <author>Alain Michard</author>
+        <year>2001</year>
+        <publisher>Eyrolles</publisher>
+        <isbn>2-212-09206-7</isbn>
+        <url>http://www.editions-eyrolles/livres/michard/</url>
+    </book>
+    <book id="2" lang="fr">
+        <title>XML by Example</title>
+        <author>Benoît Marchal</author>
+        <year>2000</year>
+        <publisher>Macmillan Computer Publishing</publisher>
+        <isbn>0-7897-2242-9</isbn>
+    </book>
+</bibliography>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<cars>
+    <car id="1">
+        <brand>Kia</brand>
+        <gearbox>Manual</gearbox>
+        <year>2013</year>
+        <doors_nbr>3</doors_nbr>
+        <mileage unit="km">122097</mileage>
+    </car>
+    <car id="2">
+        <brand>Ford</brand>
+        <gearbox>Automatic</gearbox>
+        <year>2016</year>
+        <doors_nbr>5</doors_nbr>
+        <mileage unit="km">81526</mileage>
+    </car>
+    <car id="3">
+        <brand>Renault</brand>
+        <gearbox>Automatic</gearbox>
+        <year>2017</year>
+        <doors_nbr>5</doors_nbr>
+        <mileage unit="km">54537</mileage>
+    </car>
+</cars>

@@ -1,0 +1,7 @@
+<!ELEMENT creams (cream+)>
+<!ELEMENT cream (name,description,quantity)>
+<!ATTLIST cream id NMTOKEN #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ATTLIST quantity unit NMTOKEN #REQUIRED>

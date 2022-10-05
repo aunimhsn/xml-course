@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<albums>
+    <album id="1">
+        <title>Inferno 2, La couleur du deuil</title>
+        <year>2011</year>
+        <label>Rap And Revenge</label>
+        <country>France</country>
+        <cover_path>/imgs/albums/001.png</cover_path>
+        <songs>
+            <song id="1">
+                <title>Vanité, Memento Mori</title>
+                <duration unit="second">246</duration>
+                <artists>
+                    <artist id="1" role="main">
+                        <nickname>VII</nickname>
+                    </artist>
+                </artists>
+                <types>
+                    <type id="1">Rap</type>
+                    <type id="2">Hip-Hop</type>
+                </types>
+            </song>
+            <song id="2">
+                <title>École de la nuit</title>
+                <duration unit="second">246</duration>
+                <artists>
+                    <artist id="1" role="main">
+                        <nickname>VII</nickname>
+                    </artist>
+                    <artist id="2" role="feat">
+                        <nickname>Catastroph</nickname>
+                    </artist>
+                </artists>
+                <types>
+                    <type id="1">Rap</type>
+                    <type id="2">Hip-Hop</type>
+                </types>
+            </song>
+        </songs>
+    </album>
+    <album id="1">
+        <title>Inferno 2, La couleur du deuil</title>
+        <year>2011</year>
+        <label>Rap And Revenge</label>
+        <country>France</country>
+        <cover_path>/imgs/albums/002.png</cover_path>
+        <songs>
+            <song id="1">
+                <title>Vanité, Memento Mori</title>
+                <duration unit="second">246</duration>
+                <artists>
+                    <artist id="1" role="main">
+                        <nickname>VII</nickname>
+                    </artist>
+                </artists>
+                <types>
+                    <type id="1">Rap</type>
+                    <type id="2">Hip-Hop</type>
+                </types>
+            </song>
+            <song id="2">
+                <title>L'école de la nuit</title>
+                <duration unit="second">246</duration>
+                <artists>
+                    <artist id="1" role="main">
+                        <nickname>VII</nickname>
+                    </artist>
+                    <artist id="2" role="feat">
+                        <nickname>Catastroph</nickname>
+                    </artist>
+                </artists>
+                <types>
+                    <type id="1">Rap</type>
+                    <type id="2">Hip-Hop</type>
+                </types>
+            </song>
+        </songs>
+    </album>
+</albums>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE creams SYSTEM "creams.dtd">
+<creams>
+    <cream id="1">
+        <name>Nivea</name>
+        <description>Skin cream</description>
+        <quantity unit="ml">250</quantity>
+    </cream>
+    <cream id="2">
+        <name>Dexeryl</name>
+        <description>Hydrating cream</description>
+        <quantity unit="ml">150</quantity>
+    </cream>
+</creams>
